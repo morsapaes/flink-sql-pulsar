@@ -1,5 +1,7 @@
 # Flink SQL for Pulsar Folks
 
+> :warning: **Update:** This repository will no longer be actively maintained. Please check the [Ververica fork](https://github.com/ververica).
+
 [Apache Flink](https://flink.apache.org/) and [Apache Pulsar](https://pulsar.apache.org/) share a common vision around unifying batch and streaming: on one side, batch is seen as just a [special case of streaming](https://youtu.be/h5OYmy9Yx7Y), while on the other streams serve as a [unified view on data](https://medium.com/streamnative/apache-pulsar-as-one-storage-455222c59017). The main differentiating use case for Flink + Pulsar is to simplify building a one-stop-shop for storing and processing both real-time and historic data.
 
 <p align="center">
